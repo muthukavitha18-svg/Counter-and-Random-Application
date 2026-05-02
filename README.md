@@ -4,14 +4,15 @@ A simple and interactive React application that combines a Counter and a Random 
 
 ⭐ Live Demo
 
-⭐ Live Demo
 Github Link: https://github.com/muthukavitha18-svg/Counter-and-Random-Application
+
 Vercel Link: https://counter-and-random-application.vercel.app/
 
-
 📸 Preview
-
-(Add screenshots here – Counter + Random sections)
+<img width="552" height="427" alt="counter1" src="https://github.com/user-attachments/assets/a045206c-9b12-4372-ac86-ef648d5aebab" />
+<img width="551" height="440" alt="counter2" src="https://github.com/user-attachments/assets/9a0c8d04-e249-4b89-b6aa-ad5895f8d087" />
+<img width="779" height="562" alt="Random1" src="https://github.com/user-attachments/assets/499e6aa6-a91b-48f1-9cab-de3a59d2768d" />
+<img width="791" height="578" alt="Random2" src="https://github.com/user-attachments/assets/b9e408e9-6ef7-422a-b573-e7fe8ffd7671" />
 
 📌 Project Description
 
@@ -54,7 +55,7 @@ Build a multi-feature React app focusing on:
 
 🔁 Dynamic UI Updates
 
-• State change → UI immediately update ஆகும்
+• State change → UI immediately update
 • React re-render concept clear ah puriyum
 
 🎨 Clean UI Design
@@ -87,20 +88,21 @@ JavaScript	Logic
 HTML5	Structure
 CSS3	Styling
 📁 Project Structure
-counter-random-app/
+count/
+│
+├── node_modules/
+├── public/
+│   └── index.html
 │
 ├── src/
-│   ├── components/
-│   │   ├── Counter.js
-│   │   └── Random.js
-│   │
 │   ├── App.js
-│   ├── App.css
-│   └── index.js
+│   ├── count.css
+│   ├── count.js
+│   ├── index.js
+│   └── random.js
 │
-├── public/
+├── .gitignore
 ├── package.json
-└── README.md
 💡 What I Learned
 
 React Concepts
