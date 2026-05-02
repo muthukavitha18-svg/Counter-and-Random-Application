@@ -1,0 +1,101 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.frame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.master{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    width: 500px;
+    margin: 50px;
+  
+}
+.cnt{
+    font-size: 100px;
+    color: rgb(16, 17, 117);
+}
+
+.count button{
+    padding: 10px;
+    margin: 10px;
+    font-weight:bold;
+    font-size: large;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+
+}
+.inc{
+    background-color: rgb(195, 253, 181);
+    border-radius: 30px;
+}
+.dec{
+    background-color: rgb(253, 189, 181);
+    border-radius: 30px;
+}
+.res{
+     background-color: rgb(181, 236, 253);
+     border-radius: 30px;
+}
+
+
+.tit{
+    font-size: 50px;
+    color: rgb(16, 17, 117);
+}
+.count{
+    text-align: center; 
+}
+.count p{
+    font-weight: bold;
+    color: crimson;
+}
+
+.mastergen{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+}
+.btngen{
+   background-color: rgb(181, 236, 253);
+     border-radius: 30px;
+     padding: 10px;
+    margin: 10px;
+    font-weight:bold;
+    font-size: large;  
+}
+.cntgen{
+    font-size: 100px;
+    color: rgb(16, 17, 117);
+}
+
+.mastergen p{
+    font-weight: bold;
+    color: crimson;
+}
+.recent{
+    font-weight: bold;
+    background-color: rgb(181, 236, 253);
+  margin: 7px;
+  padding: 5px;
+}
+.kitrecent{
+    margin-bottom: 10px;
+}
