@@ -4,7 +4,10 @@ A simple and interactive React application that combines a Counter and a Random 
 
 ⭐ Live Demo
 
-(Add your GitHub & Vercel link here)
+⭐ Live Demo
+Github Link: https://github.com/muthukavitha18-svg/Counter-and-Random-Application
+Vercel Link: https://counter-and-random-application.vercel.app/
+
 
 📸 Preview
 
